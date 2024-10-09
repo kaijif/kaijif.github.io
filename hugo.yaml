@@ -15,7 +15,7 @@ params:
       - name: Resume
         url: "/swe-resume.pdf"
       - name: Github
-        url: "https://github.com/kaijifu"
+        url: "https://github.com/kaijif"
 
   # socialIcons: # optional
   #   - name: "<platform>"
