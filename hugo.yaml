@@ -10,7 +10,7 @@ params:
     imageUrl: "/pfp.jpg" # optional
     imageTitle: "pfp" # optional
     # imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    # imageHeight: 120 # custom size
     buttons:
       - name: Resume
         url: "/resume"
