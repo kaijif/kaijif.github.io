@@ -9,8 +9,8 @@ params:
     subtitle: "CS @ UNC"
     imageUrl: "/pfp.jpg" # optional
     imageTitle: "pfp" # optional
-    imageWidth: 106 # custom size
-    imageHeight: 148 # custom size
+    imageWidth: 212 # custom size
+    imageHeight: 296 # custom size
     buttons:
       - name: Resume
         url: "/swe-resume.pdf"
