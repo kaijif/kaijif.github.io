@@ -13,7 +13,7 @@ params:
     # imageHeight: 120 # custom size
     buttons:
       - name: Resume
-        url: "/resume"
+        url: "/swe-resume.pdf"
       - name: Github
         url: "https://github.com/kaijifu"
 
