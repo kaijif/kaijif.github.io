@@ -1,0 +1,193 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}}
+}
+\newcommand{\resumeSubheading}[3]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}
+    \begin{tabular*}{0.97\textwidth}[t]{l}
+      \textit{\small#3} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Kaiji Fu} \\ \vspace{4pt}
+    \small +1 (252) 267-0412 $|$ \href{mailto:hello@kaijifu.com}{\underline{hello@kaijifu.com}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of North Carolina at Chapel Hill}{May 2026}
+      {B.S. Computer Science and Mathematics $|$ GPA: 4.0 $|$ Carolina Scholar (full scholarship, top 1\%) $|$ Honors (top 10\%)}
+      \begin{itemize}[leftmargin=0in, label={}]
+        \small{\item{
+         \textbf{Relevant Coursework:}{ Computer Organization, Data Structures, Algorithms \& Analysis, Programming Fundamentals} \\
+        }}
+     \end{itemize}
+  \resumeSubHeadingListEnd
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {\textbf{Ember Learning} - \textit{Full Stack Software Engineering Intern}}{May 2024 -- Aug. 2024}
+      {Completed a summer internship at an AI teaching platform, helping drive \textbf{MAU up 100x} and \textbf{revenue up 1000x}}
+      \resumeItemListStart
+        \resumeItem{Developed \textbf{20+} responsive user interface components for an \textbf{AI} grading feature with \textbf{TypeScript} and \textbf{React}}
+        \resumeItem{Scaled \textbf{AWS} backend to handle \textbf{100,000+ users} answering \textbf{3M+ questions} with \textbf{AI}, driving \textbf{\$40k+ in ARR}}
+        \resumeItem{Implemented fine-tuning pipelines for \textbf{LLMs} to improve grading accuracy across various educational standards}
+      \resumeItemListEnd
+      \resumeSubheading
+      {\textbf{UNC School of Medicine} - \textit{Research Assistant (AI/ML)}}{ Nov. 2024 -- Present}
+      {Collaborating with cardiologists to develop \textbf{transformer architectures} to analyze ECGs and detect cardiac anomalies}
+      \resumeItemListStart
+        \resumeItem{Leveraging \textbf{transformer architectures} (powers ChatGPT) with \textbf{Python/TensorFlow} in a \textbf{high-performance Linux environment} to detect cardiac anomalies from ECGs \textbf{11\% more accurately} than the state of the art}
+      \resumeItemListEnd
+      \resumeSubheading
+      {\textbf{Mozilla} - \textit{Software Engineer, Open Source}}{Dec. 2023 -- Present}
+      {Contributing to Mozilla's bugbug project, a bug classification system that uses \textbf{ML} to triage \textbf{10k+} Firefox bugs/month} 
+      \resumeItemListStart
+        \resumeItem{Implemented critical fixes in \textbf{Python} to type-checking issues, merging \textbf{2000+} significant lines of code}
+        \resumeItem{Collaborating with core maintainers through \textbf{GitHub issues} and \textbf{code reviews} to improve tool reliability}
+      \resumeItemListEnd
+      \resumeSubheading
+      {\textbf{ECU School of Medicine} - \textit{Research Assistant (AI/ML)}}{Sep. 2022 -- Feb. 2023}
+      {Researched how federated (distributed) \textbf{machine learning} enhances patient privacy in healthcare data analysis}
+      \resumeItemListStart
+        \resumeItem{Demonstrated using \textbf{Pandas/Python/TensorFlow} that federated modeling maintains \textbf{95\%+} accuracy while eliminating the need for cross-institutional data sharing, empowering researchers to train much more robust models}
+        \resumeItem{Won \textbf{Best Poster} at the ISS Symposium at East Carolina University, where I presented to other researchers}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Nolyn} $|$ \emph{ESP32, AWS, React, C/C++, RTOS, IoT, embedded development}}{May 2023 -- Present}
+          \resumeItemListStart
+            \resumeItem{\textbf{Founded a startup} to build stop-arm cameras for school buses (automated systems that capture license plates of vehicles illegally passing stopped buses) at \textbf{100x lower cost} than competitors (\$30 vs up to \$3,000 each)}
+            \resumeItem{Built microcontoller firmware with \textbf{C/RTOS} on the \textbf{ESP32 platform} for real-time image capture and analysis}
+            \resumeItem{Engineered \textbf{full-stack cloud application} with \textbf{AWS} (\textbf{DynamoDB}, \textbf{S3}, \textbf{MQTT}) and \textbf{ReactJS} admin portal}
+            \resumeItem{Deployed on \textbf{2000+ buses}, won \textbf{Congressional App Challenge}, and received a \textbf{\$1000 Amazon grant}}
+          \resumeItemListEnd
+      \vspace{-4pt}
+      \resumeProjectHeading
+        {\textbf{Blackbeard} $|$ \emph{OpenCV, PyTorch, CUDA, robotics, embedded development, computer vision}}{Aug. 2022 -- Present}
+        \resumeItemListStart
+          \resumeItem{Trained object detection neural network with \textbf{OpenCV/PyTorch} for \textbf{self-driving} in robotics competition}
+          \resumeItem{The model guided navigation with \textbf{95\% accurate} real-time detection of game elements for autonomous pathing}
+          \resumeItem{Implemented \textbf{MQTT} communication protocol in \textbf{C++} to connect the \textbf{CUDA}-enabled coprocessor and robot controller for reliable low-latency data transfer, boosting autonomous \textbf{PID} navigation performance by \textbf{4x}}
+        \resumeItemListEnd
+        \vspace{-4pt}
+        \resumeProjectHeading
+          {\textbf{72o} $|$ \emph{Python, Numpy, Machine Learning, Game Theory}}{Feb. 2025}
+          \resumeItemListStart
+            \resumeItem{Designed and built an autonomous pokerbot with \textbf{Python} that placed \textbf{1st/112} in the UNC Pokerbots competition}
+            \resumeItem{Applied \textbf{counterfactual regret minimization (CFR)} algorithms to develop optimal betting strategies}
+            \resumeItem{Engineered a \textbf{real-time decision engine} capable of modeling and adapting to opponents' play patterns}
+            \resumeItem{Leveraged \textbf{multi-threading} to parallelize opponent modeling and strategy computation processes}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, Java, JavaScript, TypeScript, C/C++, SQL, Rust, Golang, HTML/CSS} \\
+     \textbf{Frameworks}{: React, PyTorch, TensorFlow, Pandas, Svelte, Angular, Flask, TailwindCSS, FastAPI} \\
+     \textbf{Developer Tools}{: Git, Docker, CI/CD, AWS, Linux, Kubernetes, CUDA, NVIDIA Jetson, Figma} \\
+     \textbf{Domain Knowledge}{: Machine Learning, AI, LLMs, Computer Vision, IoT, Embedded Systems, RESTful APIs}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

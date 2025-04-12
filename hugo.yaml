@@ -11,12 +11,10 @@ params:
     imageTitle: "pfp" # optional
     buttons:
       - name: Resume
-        url: "/swe-resume.pdf"
-      - name: Github
-        url: "https://github.com/kaijif"
+        url: "/Kaiji-Fu-Resume.pdf"
 
-  # socialIcons: # optional
-  #   - name: "<platform>"
-  #     url: "<link>"
+  socialIcons: # optional
+    - name: "Github"
+      url: "<https://github.com/kaijif"
   #   - name: "<platform 2>"
   #     url: "<link2>"
