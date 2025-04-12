@@ -16,3 +16,5 @@ params:
   socialIcons: # optional
     - name: "Github"
       url: "https://github.com/kaijif"
+    - name: "Email"
+      url: "mailto:hello@kaijifu.com"
