@@ -22,8 +22,8 @@
 % \usepackage[default]{sourcesanspro}
 
 % serif
-% \usepackage{CormorantGaramond}
-% \usepackage{charter}
+\usepackage{CormorantGaramond}
+\usepackage{charter}
 
 
 \pagestyle{fancy}
@@ -59,14 +59,12 @@
   \item\small{
     {#1 \vspace{-2pt}}}
 }
-\newcommand{\resumeSubheading}[3]{
+\newcommand{\resumeSubheading}[2]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
     \end{tabular*}
-    \begin{tabular*}{0.97\textwidth}[t]{l}
-      \textit{\small#3} \\
-    \end{tabular*}\vspace{-7pt}
+    \vspace{-7pt}
 }
 
 \newcommand{\resumeSubSubheading}[2]{
@@ -79,8 +77,9 @@
 \newcommand{\resumeProjectHeading}[2]{
     \item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
+      #1 & #2 \\
+    \end{tabular*}
+    \vspace{-7pt}
 }
 
 \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
@@ -89,7 +88,7 @@
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 %-------------------------------------------
@@ -101,7 +100,7 @@
 %----------HEADING----------
 \begin{center}
     \textbf{\Huge \scshape Kaiji Fu} \\ \vspace{4pt}
-    \small +1 (252) 267-0412 $|$ \href{mailto:hello@kaijifu.com}{\underline{hello@kaijifu.com}}
+    \small +1 (252) 267-0412 $|$ \href{mailto:hello@kaijifu.com}{\underline{hello@kaijifu.com}} $|$ US Citizen
 \end{center}
 
 
@@ -110,72 +109,74 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {University of North Carolina at Chapel Hill}{May 2026}
-      {B.S. Computer Science and Mathematics $|$ GPA: 4.0 $|$ Carolina Scholar (full scholarship, top 1\%) $|$ Honors (top 10\%)}
-      \begin{itemize}[leftmargin=0in, label={}]
-        \small{\item{
-         \textbf{Relevant Coursework:}{ Data Structures, Systems Programming, Algorithms \& Analysis, Discrete Mathematics} \\
-        }}
-     \end{itemize}
+      \begin{tabular*}{0.97\textwidth}[t]{l}
+        \textit{\small{B.S. Computer Science and Mathematics $|$ GPA: 4.0 $|$ Carolina Scholar (full scholarship, top 1\%) $|$ Honors College (top 10\%)}} \\
+      \end{tabular*}
+    %   \begin{itemize}[leftmargin=0in, label={}]
+    %     \small{\item{
+    %      \textbf{Relevant Coursework:}{ Data Structures, Systems Programming, Algorithms \& Analysis, Discrete Mathematics} \\
+    %     }}
+    %  \end{itemize}
   \resumeSubHeadingListEnd
 %-----------EXPERIENCE-----------
 \section{Experience}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {\textbf{Ember Learning} - \textit{Full Stack Software Engineering Intern}}{May 2024 -- Aug 2024}
-      {Completed a summer internship at an AI teaching platform, helping drive \textbf{MAU up 100x} and \textbf{revenue up 1000x}}
+      {\textbf{Software Engineering Intern, Full Stack} - \textit{Ember Learning}}{May 2024 -- Aug 2024}
       \resumeItemListStart
-        \resumeItem{Developed \textbf{20+} responsive user interface components for an \textbf{AI} grading feature with \textbf{TypeScript} and \textbf{React}}
-        \resumeItem{Scaled \textbf{AWS} backend to handle \textbf{100,000+ users} answering \textbf{3M+ questions} with \textbf{AI}, driving \textbf{\$40k+ in ARR}}
-        \resumeItem{Implemented fine-tuning pipelines for \textbf{LLMs} to improve grading accuracy across various educational standards}
+        \resumeItem{Completed a summer internship at an \textbf{AI} education platform, helping increase \textbf{MAU by 100x} and \textbf{revenue by 1000x}}
+        \resumeItem{Shipped an \textbf{AI} grading feature by building \textbf{20+} responsive user interface components using \textbf{TypeScript} and \textbf{React}}
+        \resumeItem{Built scalable \textbf{AWS} backend supporting \textbf{100,000+ users} and \textbf{3M+ AI-graded questions}, generating \textbf{\$40k+ in ARR}}
+        \resumeItem{Implemented fine-tuning pipelines for \textbf{LLMs}, improving grading accuracy across diverse standards by more than \textbf{60\%}}
       \resumeItemListEnd
       \resumeSubheading
-      {\textbf{UNC School of Medicine} - \textit{Research Assistant (AI/ML)}}{ Nov 2024 -- Present}
-      {Collaborating with cardiologists to develop \textbf{transformer architectures} to analyze ECGs and detect cardiac anomalies}
+      {\textbf{Software Engineer, Open Source} - \textit{Mozilla}}{Dec 2023 -- Present}
       \resumeItemListStart
-        \resumeItem{Leveraging \textbf{transformer architectures} (powers ChatGPT) with \textbf{Python/TensorFlow} in a \textbf{high-performance Linux environment} to detect cardiac anomalies from ECGs \textbf{11\% more accurately} than the state of the art}
+        \resumeItem{Contributed to Mozilla's bugbug project, a bug classification system that uses \textbf{ML} to triage \textbf{10k+} Firefox bugs/month} 
+        \resumeItem{Implemented critical fixes in \textbf{Python} to type-checking issues, merging \textbf{2000+} lines of code over \textbf{20+ pull requests}}
+        \resumeItem{Collaborated with core maintainers through \textbf{GitHub issues} and \textbf{code reviews} to ensure code quality and compatibility}
       \resumeItemListEnd
       \resumeSubheading
-      {\textbf{Mozilla} - \textit{Software Engineer, Open Source}}{Dec 2023 -- Present}
-      {Contributing to Mozilla's bugbug project, a bug classification system that uses \textbf{ML} to triage \textbf{10k+} Firefox bugs/month} 
+      {\textbf{Research Assistant (AI/ML)} - \textit{UNC School of Medicine}}{ Nov 2024 -- Present}
       \resumeItemListStart
-        \resumeItem{Implemented critical fixes in \textbf{Python} to type-checking issues, merging \textbf{2000+} significant lines of code}
-        \resumeItem{Collaborating with core maintainers through \textbf{GitHub issues} and \textbf{code reviews} to improve tool reliability}
+        \resumeItem{Collaborated with cardiologists to develop \textbf{transformer architectures} to analyze ECGs and detect cardiac anomalies}
+        \resumeItem{Used \textbf{Python} and \textbf{Tensorflow} on \textbf{high-performance Linux} to achieve \textbf{11\% higher accuracy} than the state of the art}
       \resumeItemListEnd
       \resumeSubheading
-      {\textbf{ECU School of Medicine} - \textit{Research Assistant (AI/ML)}}{Sept 2022 -- Feb 2023}
-      {Researched how federated (distributed) \textbf{machine learning} enhances patient privacy in healthcare data analysis}
+      {\textbf{Research Assistant (AI/ML)} - \textit{ECU School of Medicine}}{Sept 2022 -- Feb 2023}
       \resumeItemListStart
-        \resumeItem{Demonstrated using \textbf{Pandas/Python/TensorFlow} that federated modeling maintains \textbf{95\%+} accuracy while eliminating the need for cross-institutional data sharing, empowering researchers to train much more robust models}
-        \resumeItem{Won \textbf{Best Poster} at the ISS Symposium at East Carolina University, where I presented to other researchers}
+        \resumeItem{Researched how federated (distributed) \textbf{machine learning} enhances patient privacy in healthcare data analysis}
+        \resumeItem{Demonstrated using \textbf{Python (Pandas, TensorFlow)} that federated modeling maintains \textbf{95\%+} accuracy while eliminating the need for cross-institutional data sharing, empowering researchers to train much more robust models}
+        \resumeItem{Won Best Poster at the ISS Symposium, where I presented findings to faculty, industry partners, and fellow researchers}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 %-----------PROJECTS-----------
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{Nolyn} $|$ \emph{AWS/cloud, React, full-stack, C/C++, RTOS, embedded development/debugging}}{May 2023 -- Present}
+          {\textbf{Nolyn} $|$ \emph{AWS/cloud, React, full-stack, C/C++, RTOS, embedded development/debugging}}{ May 2023 -- Sept 2024}
           \resumeItemListStart
             \resumeItem{\textbf{Founded a startup} to build stop-arm cameras for school buses (automated systems that capture license plates of vehicles illegally passing stopped buses) at \textbf{100x lower cost} than competitors (\$30 vs up to \$3,000 each)}
-            \resumeItem{Built microcontoller firmware with \textbf{C/RTOS} with \textbf{GPIO peripherals} for real-time image capture and analysis}
-            \resumeItem{Engineered \textbf{full-stack cloud application} with \textbf{AWS} (\textbf{DynamoDB}, \textbf{S3}, \textbf{MQTT}) and \textbf{ReactJS} admin portal}
-            \resumeItem{Deployed on \textbf{2000+ buses}, won \textbf{Congressional App Challenge}, and received a \textbf{\$1000 Amazon grant}}
+            \resumeItem{Built microcontoller firmware with \textbf{C/RTOS} and connected it to \textbf{AWS} for real-time image capture and analysis}
+            \resumeItem{Engineered \textbf{full-stack cloud application} with \textbf{AWS} (\textbf{DynamoDB}, \textbf{S3}, \textbf{Lambda} \textbf{MQTT}) and \textbf{ReactJS} admin portal}
+            \resumeItem{Deployed on \textbf{2000+} buses across \textbf{10+} school districts and secured \textbf{\$1k+} in venture capital from investors like Amazon}
           \resumeItemListEnd
-      \vspace{-4pt}
+      % \vspace{-4pt}
       \resumeProjectHeading
-        {\textbf{Blackbeard} $|$ \emph{OpenCV, PyTorch, CUDA, robotics, embedded development, computer vision}}{Aug 2022 -- Present}
+        {\textbf{Blackbeard} $|$ \emph{OpenCV, PyTorch, CUDA, robotics, embedded development, computer vision}}{Aug 2022 -- May 2024}
         \resumeItemListStart
-          \resumeItem{Trained object detection neural network with \textbf{OpenCV/PyTorch} for \textbf{self-driving} in robotics competition}
-          \resumeItem{The model guided navigation with \textbf{95\% accurate} real-time detection of game elements for autonomous pathing}
-          \resumeItem{Implemented \textbf{MQTT} communication protocol in \textbf{C++} to connect the \textbf{CUDA}-enabled coprocessor and robot controller for reliable low-latency data transfer, boosting autonomous \textbf{PID} navigation performance by \textbf{4x}}
+          \resumeItem{Trained an AI object detection model with \textbf{OpenCV/PyTorch} to \textbf{4x} \textbf{self-driving} performance in a robotics competition}
+          \resumeItem{Deployed the model on an \textbf{embedded Linux} coprocessor, achieving \textbf{95\%} accurate real-time detection of field elements}
+          \resumeItem{Implemented \textbf{MQTT} protocol with \textbf{C++} and \textbf{Java} to connect coprocessor and robot controller for reliable data transfer}
         \resumeItemListEnd
-        \vspace{-4pt}
+        % \vspace{-4pt}
         \resumeProjectHeading
           {\textbf{72o} $|$ \emph{Python, Numpy, Pandas, Machine Learning, Game Theory}}{Feb 2025}
           \resumeItemListStart
-            \resumeItem{Designed and built an autonomous pokerbot with \textbf{Python} that placed \textbf{1st/112} in the UNC Pokerbots competition}
-            \resumeItem{Applied \textbf{counterfactual regret minimization (CFR)} algorithms to develop optimal betting strategies}
-            \resumeItem{Engineered a \textbf{real-time decision engine} capable of modeling and adapting to opponents' play patterns}
-            \resumeItem{Leveraged \textbf{multi-threading} to parallelize opponent modeling and strategy computation processes}
+            \resumeItem{Collaborated with team of 4 to build a pokerbot with \textbf{Python} that placed \textbf{1st/112} in the UNC Pokerbots competition}
+            \resumeItem{Applied \textbf{counterfactual regret minimization (CFR)} algorithms to develop game-theory optimal betting strategies}
+            \resumeItem{Engineered an opponent modeling system capable of adapting to opponent patterns, increasing winrate by \textbf{32\%}}
+            \resumeItem{Leveraged \textbf{multi-threading} to parallelize decision-making, decreasing latency by \textbf{3x} and avoiding disqualification}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
 %-----------TECHNICAL SKILLS-----------

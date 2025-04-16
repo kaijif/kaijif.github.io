@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1744483001.65157 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume-strava.tex" "Kaiji-Fu-Resume-strava.pdf" "Kaiji-Fu-Resume-strava" 1744483002.17063 0
-  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume-strava.tex" 1744483001.43266 9240 08d5887619f35041de53de6b26d026d7 ""
+["pdflatex"] 1744839214.72196 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume-strava.tex" "Kaiji-Fu-Resume-strava.pdf" "Kaiji-Fu-Resume-strava" 1744839215.33115 0
+  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume-strava.tex" 1744839214.46471 9242 36b1a55097722b419687ab848d006af3 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1741388039 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -91,9 +91,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346140 981dae4097bc43850a521b8b1e36e95f ""
-  "Kaiji-Fu-Resume-strava.aux" 1744483002.11582 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Kaiji-Fu-Resume-strava.out" 1744483002.1164 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Kaiji-Fu-Resume-strava.tex" 1744483001.43266 9240 08d5887619f35041de53de6b26d026d7 ""
+  "Kaiji-Fu-Resume-strava.aux" 1744839215.27413 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Kaiji-Fu-Resume-strava.out" 1744839215.27504 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Kaiji-Fu-Resume-strava.tex" 1744839214.46471 9242 36b1a55097722b419687ab848d006af3 ""
   (generated)
   "Kaiji-Fu-Resume-strava.aux"
   "Kaiji-Fu-Resume-strava.log"
