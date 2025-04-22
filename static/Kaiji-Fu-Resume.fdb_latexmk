@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1744840122.78649 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" "Kaiji-Fu-Resume.pdf" "Kaiji-Fu-Resume" 1744840123.39008 0
-  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" 1744840122.54906 9349 f716e91576d28d7274bb2db452c38c8a ""
+["pdflatex"] 1745359927.61662 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" "Kaiji-Fu-Resume.pdf" "Kaiji-Fu-Resume" 1745359928.29353 0
+  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" 1745359927.28652 10432 56ca20dc02a4a0cc2b6f8e02541f697b ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -11,7 +11,6 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchbi7t.tfm" 1741388039 2708 b3af845e8ad996b798597773dbdd63dc ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchbi8r.tfm" 1741388039 5564 abc38cf1d7eb642fb41a2026b4bb0586 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchr7t.tfm" 1741388039 2472 ab22c035363bbb0eb24fc2ce6fa2d921 ""
-  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchr8c.tfm" 1741388039 1364 eddb79584f8d4279685d2abc2a2162ee ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchr8r.tfm" 1741388039 4644 551129616ea4f62d8f0094a3db9a3f9d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchrc7t.tfm" 1741388039 3476 7425233da115a839f6749985251180bd ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/bitstrea/charter/bchri7t.tfm" 1741388039 2568 58165f44b773491d02ba0f602dd480cb ""
@@ -41,7 +40,6 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchbc7t.vf" 1741388039 1948 8756c185d16c133ab8b62dca88f95869 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchbi7t.vf" 1741388039 1376 55aa1edcf8f445c1222c316c155c84ce ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchr7t.vf" 1741388039 1372 955cf021d0094e95829436b7bdab6458 ""
-  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchr8c.vf" 1741388039 3492 1012f7b53b5692e6d6f11a0fab90a971 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchrc7t.vf" 1741388039 1948 35abb510befa010fcb6eda2b3e0faf72 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchri7t.vf" 1741388039 1376 a6caf4b9594dae1aa6039195e9d4e333 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1741388039 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -113,9 +111,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1741388039 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346140 981dae4097bc43850a521b8b1e36e95f ""
-  "Kaiji-Fu-Resume.aux" 1744840123.33854 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Kaiji-Fu-Resume.out" 1744840123.33912 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Kaiji-Fu-Resume.tex" 1744840122.54906 9349 f716e91576d28d7274bb2db452c38c8a ""
+  "Kaiji-Fu-Resume.aux" 1745359928.24317 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Kaiji-Fu-Resume.out" 1745359928.24373 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Kaiji-Fu-Resume.tex" 1745359927.28652 10432 56ca20dc02a4a0cc2b6f8e02541f697b ""
   (generated)
   "Kaiji-Fu-Resume.aux"
   "Kaiji-Fu-Resume.log"
