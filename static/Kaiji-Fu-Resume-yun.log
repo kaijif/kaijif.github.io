@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  11 MAY 2025 23:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  18 APR 2025 21:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex
-(/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex
+**/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume-yun.tex
+(/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume-yun.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/article.cls
@@ -269,34 +269,34 @@ LaTeX Info: Redefining \oldstylenums on input line 123.
 ) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/charter.sty
 Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 )
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 108.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 98.
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 ) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box56
-) (./Kaiji-Fu-Resume.aux)
-\openout1 = `Kaiji-Fu-Resume.aux'.
+) (./Kaiji-Fu-Resume-yun.aux)
+\openout1 = `Kaiji-Fu-Resume-yun.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
@@ -311,33 +311,33 @@ LaTeX Font Info:    ... okay on input line 108.
 \makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks29
 )
-Package hyperref Info: Link coloring OFF on input line 108.
- (./Kaiji-Fu-Resume.out) (./Kaiji-Fu-Resume.out)
+Package hyperref Info: Link coloring OFF on input line 98.
+ (./Kaiji-Fu-Resume-yun.out) (./Kaiji-Fu-Resume-yun.out)
 \@outlinefile=\write3
-\openout3 = `Kaiji-Fu-Resume.out'.
+\openout3 = `Kaiji-Fu-Resume-yun.out'.
 
 \c@mv@tabular=\count295
 \c@mv@boldtabular=\count296
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 113.
+(Font)              <7> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 113.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 113.
+(Font)              <5> on input line 103.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 103.
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 121.
+(Font)              <10.95> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 121.
+(Font)              <8> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 121.
+(Font)              <6> on input line 111.
 
-Underfull \hbox (badness 10000) in alignment at lines 122--124
+Underfull \hbox (badness 10000) in alignment at lines 112--114
 [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 144.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 129.
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
@@ -349,24 +349,24 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./Kaiji-Fu-Resume.aux)
+{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./Kaiji-Fu-Resume-yun.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `Kaiji-Fu-Resume.out' has not changed.
+Package rerunfilecheck Info: File `Kaiji-Fu-Resume-yun.out' has not changed.
 (rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
- 11712 strings out of 473190
- 191076 string characters out of 5704335
- 651476 words of memory out of 5000000
- 34791 multiletter control sequences out of 15000+600000
+ 11706 strings out of 473190
+ 191032 string characters out of 5704335
+ 629315 words of memory out of 5000000
+ 34785 multiletter control sequences out of 15000+600000
  584184 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,892b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,329b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on Kaiji-Fu-Resume.pdf (1 page, 95068 bytes).
+Output written on Kaiji-Fu-Resume-yun.pdf (1 page, 85629 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
