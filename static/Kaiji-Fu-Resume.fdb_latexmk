@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1751092422.29669 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" "Kaiji-Fu-Resume.pdf" "Kaiji-Fu-Resume" 1751092423.40087 0
-  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" 1751092421.85309 14478 ce3d642b363e9c5c627884c53dbf1e66 ""
+["pdflatex"] 1751866131.59494 "/Users/kaiji/projects/kaijif.github.io/static/Kaiji-Fu-Resume.tex" "Kaiji-Fu-Resume.pdf" "Kaiji-Fu-Resume" 1751866132.66489 0
+  "/Users/kaiji/projects/kaijif.github.io/static/Kaiji-Fu-Resume.tex" 1751866131.42555 14826 a228bcefd963f81302b24ef0a969a455 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -33,6 +33,7 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb" 1741388039 35229 7f969820a9c1085027a23beb06f6f457 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb" 1741388039 34869 539b6fed90ef630e9049bc13079bc598 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb" 1741388039 35118 12369bddf1a14581d11fcdbf86619250 ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1741388039 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1741388039 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1741388039 32587 1788b0c1c5b39540c96f5e42ccd6dae8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/vf/bitstrea/charter/bchb7t.vf" 1741388039 1372 e6cfde23c168b1d1864ce6aa6dffa18b ""
@@ -110,10 +111,10 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1741388039 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
-  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346140 981dae4097bc43850a521b8b1e36e95f ""
-  "Kaiji-Fu-Resume.aux" 1751092423.35634 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Kaiji-Fu-Resume.out" 1751092423.357 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Kaiji-Fu-Resume.tex" 1751092421.85309 14478 ce3d642b363e9c5c627884c53dbf1e66 ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
+  "Kaiji-Fu-Resume.aux" 1751866132.61956 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Kaiji-Fu-Resume.out" 1751866132.62036 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Kaiji-Fu-Resume.tex" 1751866131.42555 14826 a228bcefd963f81302b24ef0a969a455 ""
   (generated)
   "Kaiji-Fu-Resume.aux"
   "Kaiji-Fu-Resume.log"
