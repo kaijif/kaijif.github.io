@@ -1,7 +1,7 @@
-PWD /Users/kaiji/projects/kaijif.github.io/static
+PWD /Users/kaiji/projects/kaijifu.com/static
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/kaiji/projects/kaijif.github.io/static/Kaiji-Fu-Resume.tex
+INPUT /Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex
 OUTPUT Kaiji-Fu-Resume.log
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/article.cls
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/article.cls
