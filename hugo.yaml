@@ -1,6 +1,6 @@
 baseURL : 'https://kaijifu.com/'
 languageCode : 'en-us'
-title : 'Kaiji Fu'
+title : 'Kaijifu'
 theme : "PaperMod"
 params:
   profileMode:
