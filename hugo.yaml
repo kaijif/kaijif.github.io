@@ -4,7 +4,7 @@ title : 'Kaiji Fu'
 theme : "PaperMod"
 params:
   profileMode:
-    enabled: true
+    enabled: false
     title: "Kaiji Fu" # optional default will be site title
     subtitle: "CS @ UNC"
     imageUrl: "/pfp.png" # optional
