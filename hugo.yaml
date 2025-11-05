@@ -1,10 +1,10 @@
 baseURL : 'https://kaijifu.com/'
 languageCode : 'en-us'
-title : 'Kaijifu'
+title : 'Kaiji Fu'
 theme : "PaperMod"
 params:
   profileMode:
-    enabled: false
+    enabled: true
     title: "Kaiji Fu" # optional default will be site title
     subtitle: "CS @ UNC"
     imageUrl: "/pfp.png" # optional
