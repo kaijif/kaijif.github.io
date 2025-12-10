@@ -7,8 +7,8 @@ params:
     enabled: true
     title: "Kaiji Fu" # optional default will be site title
     subtitle: "CS @ UNC"
-    imageUrl: "/pfp.png" # optional
-    imageTitle: "pfp" # optional
+    # imageUrl: "/pfp.png" # optional
+    # imageTitle: "pfp" # optional
     buttons:
       - name: Resume
         url: "/Kaiji-Fu-Resume.pdf"
