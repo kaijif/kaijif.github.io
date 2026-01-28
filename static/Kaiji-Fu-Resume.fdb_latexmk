@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763650350.63629 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" "Kaiji-Fu-Resume.pdf" "Kaiji-Fu-Resume" 1763650351.52165 0
-  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" 1763650349.95681 14009 2d20b6e6d331d9759de2f38dbb07cc6d ""
+["pdflatex"] 1768182413.50454 "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" "Kaiji-Fu-Resume.pdf" "Kaiji-Fu-Resume" 1768182414.30844 0
+  "/Users/kaiji/projects/kaijifu.com/static/Kaiji-Fu-Resume.tex" 1768182413.27689 14009 7abbee350485db5145842c04a85d8684 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -112,9 +112,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1741388039 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346124 822af4b3533d914509c9d079ab7ecdd9 ""
-  "Kaiji-Fu-Resume.aux" 1763650351.45212 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Kaiji-Fu-Resume.out" 1763650351.45266 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Kaiji-Fu-Resume.tex" 1763650349.95681 14009 2d20b6e6d331d9759de2f38dbb07cc6d ""
+  "Kaiji-Fu-Resume.aux" 1768182414.26321 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Kaiji-Fu-Resume.out" 1768182414.26373 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Kaiji-Fu-Resume.tex" 1768182413.27689 14009 7abbee350485db5145842c04a85d8684 ""
   (generated)
   "Kaiji-Fu-Resume.aux"
   "Kaiji-Fu-Resume.log"
